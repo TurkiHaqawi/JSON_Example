@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Turki",
+        "cuntry" : "KSA"
+    },
+    {
+        "name" : "Ali",
+        "cuntry" : "OMN"
+    },
+    {
+        "name" : "Alex",
+        "cuntry" : "UK"
+    },
+    {
+        "name" : "John",
+        "cuntry" : "US"
+    },
+    {
+        "name": "Mohamed",
+        "cuntry" : "QAT"
+    },
+    {
+        "name": "Jorj",
+        "cuntry" : "ZAF"
+    }
+]

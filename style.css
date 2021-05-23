@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Tahoma;
+}
+
+.container {
+    background-color: #125e82cf;
+    width: 70%;
+    margin: 10% auto;
+    padding: 50px;
+}
+.info {
+    background-color: #fff;
+    padding: 40px;
+    display: flex;
+}
+.name {
+    width: 50%;
+    float: left;
+    margin-right: 5px;
+}
+.cuntry {
+    width: 50%;
+    float: right;
+}
+
+.def {
+    color: rgb(39, 68, 136);
+}
